@@ -1,0 +1,2 @@
+D:\sarvagya\Windows_GUI_Projects\CreatingAWindow\Debug\CreatingAWindow.exe
+D:\sarvagya\Windows_GUI_Projects\CreatingAWindow\Debug\CreatingAWindow.pdb

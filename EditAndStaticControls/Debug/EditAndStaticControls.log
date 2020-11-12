@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\sarvagya\Windows_GUI_Projects\EditAndStaticControls\main.cpp(88): warning C4715: 'WindowProcedure': not all control paths return a value
+  EditAndStaticControls.vcxproj -> D:\sarvagya\Windows_GUI_Projects\EditAndStaticControls\Debug\EditAndStaticControls.exe

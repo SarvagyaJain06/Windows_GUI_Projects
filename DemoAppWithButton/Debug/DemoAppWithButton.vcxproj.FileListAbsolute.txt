@@ -1,0 +1,2 @@
+D:\sarvagya\Windows_GUI_Projects\DemoAppWithButton\Debug\DemoAppWithButton.exe
+D:\sarvagya\Windows_GUI_Projects\DemoAppWithButton\Debug\DemoAppWithButton.pdb

@@ -1,0 +1,2 @@
+D:\sarvagya\Windows_GUI_Projects\EditAndStaticControls\Debug\EditAndStaticControls.exe
+D:\sarvagya\Windows_GUI_Projects\EditAndStaticControls\Debug\EditAndStaticControls.pdb

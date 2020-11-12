@@ -1,0 +1,2 @@
+D:\sarvagya\Windows_GUI_Projects\HelloWorld\Debug\HelloWorld.exe
+D:\sarvagya\Windows_GUI_Projects\HelloWorld\Debug\HelloWorld.pdb
